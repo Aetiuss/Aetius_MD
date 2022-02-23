@@ -58,6 +58,7 @@ Refers to the Byzantine Generals problem
 	- 3. When one find the right value, every node must confirm its correctness
 	- 4. Transactions in the block are verified
 	- 5. This collection of transactions that were hashed is approved and create a new block in the chain
+
 - Edge case: When 2 valid blocks are generated at the same time 
 	- A fork of the main chain is created for every identical block
 	- The chain that gets longer the fastest is the one that is chosen as the main one
