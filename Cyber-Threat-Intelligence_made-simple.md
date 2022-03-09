@@ -1,11 +1,7 @@
----
-creation date: 21/02/2022 
-modification date: 21/02/2022 11:20
+layout: page
+title: "Threat Intelligence - Made Simple"
+permalink: /threat-intelligence_made-simple/
 
-- Sources: 
-	- C:\Users\Jules\OneDrive - Association Cesi Viacesi mail\Documents\Cesi Ingé\A4\ADS\Ressources
-	- file:///C:/Users/Jules/OneDrive%20-%20Association%20Cesi%20Viacesi%20mail/Documents/Cesi%20Ing%C3%A9/A4/ADS/Ressources/SANS_Whitepaper_Threat_Intelligence__What_It_Is__and_How_to_Use_It_Effectively.pdf
----
 This article is composed of the notes I have taken reading this paper:
 https://nsfocusglobal.com/wp-content/uploads/2017/01/SANS_Whitepaper_Threat_Intelligence__What_It_Is__and_How_to_Use_It_Effectively.pdf
 ---
