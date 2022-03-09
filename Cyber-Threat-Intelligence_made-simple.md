@@ -1,14 +1,11 @@
-layout: page
-title: "Threat Intelligence - Made Simple"
-permalink: /threat-intelligence_made-simple/
+> This article is composed of the notes I have taken reading this paper:
+> https://nsfocusglobal.com/wp-content/uploads/2017/01/SANS_Whitepaper_Threat_Intelligence__What_It_Is__and_How_to_Use_It_Effectively.pdf
 
-This article is composed of the notes I have taken reading this paper:
-https://nsfocusglobal.com/wp-content/uploads/2017/01/SANS_Whitepaper_Threat_Intelligence__What_It_Is__and_How_to_Use_It_Effectively.pdf
 ---
 # Cyber Threat Intelligence explained
-3 step process
+A three step process.
 ## 1. Acquiring Knowledge
-**Gaining knowledge on the threats that could potentially target one organization through available data points**
+>**Gaining knowledge on the threats that could potentially target one organization through available data points**
 - Your knowledge is acquired through on the field data related to intrusion
 - The data can be collected through different data points
 ### Internal Threat Intelligence
@@ -50,10 +47,8 @@ https://nsfocusglobal.com/wp-content/uploads/2017/01/SANS_Whitepaper_Threat_Inte
 #### Crowd-sourced Platforms
 - Hubs between multiple types of entities
 - Can provide anonymous access
-- Ex
-	- ?
 ## 2. Determining your Relevant Threats (by finding the relations between Knowledge and your Organization)
-**To process the acquired knowledge you need to *find the relations* between it and your org by using contextual info=> relevant threats to your business**
+>**To process the acquired knowledge you need to *find the relations* between it and your org by using contextual info=> relevant threats to your business**
 ### Combining External & Internal sources
 | External                      | Internal                   |
 | ----------------------------- | -------------------------- |
@@ -70,7 +65,7 @@ https://nsfocusglobal.com/wp-content/uploads/2017/01/SANS_Whitepaper_Threat_Inte
 	- Look into the past to possibly find things that were overlooked before TI (**Internal TI**)
 	- Look into the future (**External TI**)
 ## 3. Actioning your knowledge of those Relevant Threats
-**Exploiting this knowledge on relevant threats to *act* (respond/combat/mitigate)**
+>**Exploiting this knowledge on relevant threats to *act* (respond/combat/mitigate)**
 ### Incorporate TI into Security Posture
 - Security Posture = what the business needs to protect 
 	- -> policies/procedures/controls to implement
