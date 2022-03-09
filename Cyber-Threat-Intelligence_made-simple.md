@@ -50,7 +50,7 @@ A three step process.
 ## 2. Determining your Relevant Threats (by finding the relations between Knowledge and your Organization)
 >**To process the acquired knowledge you need to *find the relations* between it and your org by using contextual info=> relevant threats to your business**
 ### Combining External & Internal sources
-| External                      | Internal                   |
+- | External                      | Internal                   |
 | ----------------------------- | -------------------------- |
 | What you don't know           | What you know              |
 | How you may be attacked       | How you have been attacked |
