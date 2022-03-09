@@ -6,6 +6,7 @@
 A three step process.
 ## 1. Acquiring Knowledge
 >**Gaining knowledge on the threats that could potentially target one organization through available data points**
+
 - Your knowledge is acquired through on the field data related to intrusion
 - The data can be collected through different data points
 ### Internal Threat Intelligence
@@ -49,6 +50,7 @@ A three step process.
 - Can provide anonymous access
 ## 2. Determining your Relevant Threats (by finding the relations between Knowledge and your Organization)
 >**To process the acquired knowledge you need to *find the relations* between it and your org by using contextual info=> relevant threats to your business**
+
 ### Combining External & Internal sources
 - | External                      | Internal                   |
 | ----------------------------- | -------------------------- |
@@ -66,6 +68,7 @@ A three step process.
 	- Look into the future (**External TI**)
 ## 3. Actioning your knowledge of those Relevant Threats
 >**Exploiting this knowledge on relevant threats to *act* (respond/combat/mitigate)**
+
 ### Incorporate TI into Security Posture
 - Security Posture = what the business needs to protect 
 	- -> policies/procedures/controls to implement
