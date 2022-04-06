@@ -13,7 +13,7 @@ https://allquantor.at/blockchainbib/pdf/zheng2018blockchain.pdf
 # Blockchain challenges and opportunities - a survey
 ## Architecture
 ### Block
-- Composition![Block Schema](docs\assets\images\Pasted-image-20220222224720.png)
+- Composition![Block Schema](docs/assets/images/Pasted-image-20220222224720.png)
 	- *Header*
 		- Block version: set of block validation rules to follow
 		- Parent block hash: 256-bit hash value, points to previous block
@@ -83,7 +83,7 @@ Refers to the Byzantine Generals problem
 		- Commit
 	- A node can enter the next phase if it is validated by 2/3 of all nodes
 - <- Every node needs to be known to the network
-- ![PBFT](docs\assets\images\Pasted-image-20220223141459.png)
+- ![PBFT](docs/assets/images/Pasted-image-20220223141459.png)
 #### **Stellar Consensus Protocol SCP**
 - Gives participants the right to choose which set of other nodes to believe
 
@@ -95,4 +95,4 @@ Refers to the Byzantine Generals problem
 | Example                      | Bitcoin               | Peercoin    | Hyperledger             | Bitshares        | Ripple                    | Tendermint                     |
  
 ## Applications of Blockchain
-!(Applications of Blockchain)[docs\assets\images\Pasted-image-20220223145710.png]
+!(Applications of Blockchain)[docs/assets/images/Pasted-image-20220223145710.png]
