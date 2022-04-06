@@ -1,6 +1,8 @@
 > This article is composed of the notes I have taken reading this paper:
 > https://nsfocusglobal.com/wp-content/uploads/2017/01/SANS_Whitepaper_Threat_Intelligence__What_It_Is__and_How_to_Use_It_Effectively.pdf
 
+[Index](index.html)
+
 ---
 # Cyber Threat Intelligence explained
 A three step process.
